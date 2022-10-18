@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AActor" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAEAAAAIAAAAAABAAAAAAYAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAQAAQAAAAAAAAAAEAAAAAAABBAAAIAAQAI=</HashCode>
+      <FileName>Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AFloor" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Floor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AGoal" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAA=</HashCode>
+      <FileName>Goal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APlayer" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWall" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FWorld" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAACIBAAAAAAQAg=</HashCode>
+      <FileName>World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEngine">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAIIAAAA=</HashCode>
+      <FileName>MyEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
