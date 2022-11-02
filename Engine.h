@@ -62,7 +62,7 @@ protected:
 	virtual void Input();
 	virtual void Tick();
 	virtual void Render();
-
+	virtual void PlaySounds();
 	
 
 	void SortActor();

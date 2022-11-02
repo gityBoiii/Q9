@@ -65,6 +65,10 @@ void AActor::EndPlay()
 {
 }
 
+void AActor::PlaySounds()
+{
+}
+
 bool AActor::CheckHit(AActor* Other)
 {
 	if ((int)Other->CollisionType & (int)ECollisionType::PhysicsOnly)

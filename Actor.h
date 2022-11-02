@@ -31,6 +31,8 @@ public:
 	virtual void BeginPlay();
 	virtual void EndPlay();
 
+	virtual void PlaySounds();
+
 	int X;
 	int Y;
 

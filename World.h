@@ -22,5 +22,7 @@ public:
 	void BeginPlay();
 	void EndPlay();
 
+	void PlaySounds();
+
 };
 

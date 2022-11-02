@@ -88,3 +88,11 @@ void FWorld::EndPlay()
 	//World EndPlay
 }
 
+void FWorld::PlaySounds()
+{
+	for (int i = 0; i < ActorList.size(); ++i)
+	{
+		ActorList[i]->PlaySounds();
+	}
+}
+

@@ -192,8 +192,17 @@ void Engine::Render()
 
 	MyWorld->Render();
 
-
 	SDL_RenderPresent(MyRenderer);
 
 
+}
+
+void Engine::PlaySounds()
+{
+	//The music that will be played
+	Mix_Music* gMusic = NULL;
+	gMusic = Mix_LoadMUS("C:/work/UR_Cpp/data/bgm.mp3");
+	//The sound effects that will be used
+	Mix_PlayMusic(gMusic, -1);
+	MyWorld->PlaySounds();
 }
